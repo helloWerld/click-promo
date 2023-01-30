@@ -1,0 +1,40 @@
+/* Influencer Card Styles */
+
+.infCard {
+    width: 20em;
+    min-height: 30rem;
+    background-color: transparent !important;
+    color: black !important;
+    border: none !important;
+    border-radius: 20px !important;
+}
+
+.infImg {
+  border-radius: 20px !important;
+  width: auto;
+  height: 300px;
+  margin: 0 !important;
+  box-shadow: 4px 4px 0px white;
+  border: 2px solid black;
+}
+
+.infCardBody {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+#infCardSubtitle a {
+  color: black !important;
+}
+
+.socialLink {
+  text-decoration: none;
+}
+
+.socialLink:hover {
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none !important;
+}

@@ -1,0 +1,22 @@
+#searchBar {
+    box-shadow: inset 1px 1px 20px grey;
+    font-size: 1.2rem;
+
+}
+
+#searchButton {
+    background-color: #1FA59C;
+    box-shadow: inset 1px 1px 10px aquamarine;
+    color: black;
+}
+
+#searchButton:hover {
+    background-color: #6B0C79;
+    box-shadow: inset 1px 1px 10px #c109de;
+    color: white;
+}
+
+#dropMenu {
+    height: 50vh;
+    overflow-y: scroll;
+}

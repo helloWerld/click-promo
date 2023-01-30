@@ -1,0 +1,12 @@
+
+#catCard {
+    background-color: transparent !important;
+    border: none;
+    color: white;
+}
+
+.catCardRow {
+    display: flex;
+    overflow: hidden;
+    background-color: #111111 !important;
+}
